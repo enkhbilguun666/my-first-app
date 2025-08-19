@@ -1,0 +1,6 @@
+.done {
+    color: darkseagreen;
+    text-decoration: line-through;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+}
